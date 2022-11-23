@@ -1,14 +1,12 @@
+import java.time.LocalDateTime;
+
 public class Memo {
 
-    String paper;
-
-
-
-    String memoAdd(String memo){
-
-        paper
-
-    }
+    int index;
+    String name;
+    String password;
+    String text;
+    LocalDateTime date;
 
 
 }
